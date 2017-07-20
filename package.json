@@ -1,0 +1,16 @@
+{
+  "name": "nodetest2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "art",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "oracledb": "^1.13.1"
+  }
+}
